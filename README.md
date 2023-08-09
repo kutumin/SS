@@ -1,4 +1,4 @@
 # SS
 
-wget -O ss.sh https://raw.githubusercontent.com/kutumin/SS/main/ss.sh?token=GHSAT0AAAAAACGDK5OQNNWPFQY3A5STLRAWZGTQEJQ
+wget https://raw.githubusercontent.com/kutumin/SS/main/ss.sh
 && chmod +x ss.sh
